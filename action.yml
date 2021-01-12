@@ -2,7 +2,7 @@
 name: "Terraform Linter Next-Gen"
 description: 'Run terraform fmt on your repository.'
 inputs: 
-  tf-version:
+  tfversion:
     description: 'Version of terraform to use'
     required: false
     default: 'latest'
