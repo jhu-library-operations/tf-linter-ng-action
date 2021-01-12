@@ -1,6 +1,6 @@
 #action.yml
 name: "Terraform Linter Next-Gen"
-description: 'Run "terraform fmt" on your repository.'
+description: 'Run terraform fmt on your repository.'
 inputs: 
   tf-version:
     description: 'Version of terraform to use'
